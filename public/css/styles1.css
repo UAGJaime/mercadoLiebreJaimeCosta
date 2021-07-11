@@ -1,0 +1,127 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+  margin: 0;
+  font-weight: normal;
+}
+
+img {
+  width: 100%;
+  padding-bottom: 15px;
+}
+
+body {
+  background-color: #eac926;
+}
+
+header p {
+  text-align: center;
+}
+
+main {
+  width: 100%;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0 0 0 5px;
+}
+
+article {
+  text-align: center;
+  background-color: #ebebeb;
+  margin: 10px;
+}
+
+footer {
+  text-align: center;
+  background-color: #ebebeb;
+  padding: 10px;
+  margin: 10px;
+}
+
+footer i {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #1259c3;
+}
+
+footer h3 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #666;
+  margin-top: 5px;
+}
+
+footer section:last-child {
+  margin-top: 30px;
+  padding: 0;
+}
+
+footer section {
+  margin-bottom: 20px;
+  padding: 0 25%;
+}
+
+.form {
+  display: inline-block;
+}
+
+.input {
+  border: 1px solid #666;
+  background-color: #ebebeb;
+  padding: 0 5px;
+  margin: 0 0 2px 5px;
+}
+.submit {
+  border: 1px solid #666;
+  background-color: #ebebeb;
+  margin: 0 0 2px 5px;
+}
+
+.burger-menu {
+  display: block;
+  text-align: center;
+  margin: 5px;
+}
+
+.burger-menu > i {
+  background-color: #1259c3;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.titulares {
+  font-size: 24px;
+  text-align: left;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.precios {
+  font-size: 18px;
+}
+
+.descuentos,
+.descripciones {
+  font-size: 16px;
+}
+
+.descripciones {
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
+.descuentos {
+  color: #39b54a;
+  font-weight: bold;
+}
+
+.copyright {
+  text-align: left;
+}
